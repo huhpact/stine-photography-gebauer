@@ -253,3 +253,6 @@ th{background:var(--beige);font-weight:500;color:var(--ink)}tr:last-child td{bor
 .img__credit:hover {
     transform: scale(1.1);
 }
+.price-row{display:flex;align-items:center;justify-content:space-between;gap:1rem 1.5rem;flex-wrap:wrap;margin-top:1.8rem}
+.price-row p{margin:0;font-size:1.05rem;color:var(--ink2)}
+.price-row b{font-family:var(--h);font-size:2.2rem;font-weight:600;color:var(--ink);margin-left:.4rem}
